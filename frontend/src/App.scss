@@ -1,0 +1,29 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+ul {
+  margin: 0;
+  list-style: none;
+}
+body {
+  /* font-family: "Poppins", sans-serif; */
+  color: #212529;
+}
+a {
+  color: black;
+  text-decoration: none;
+  margin: 0;
+}
+.section-heading{
+  .section-item{
+    width: 60px;
+    height: 3px;
+    border: 3px solid goldenrod;
+    margin: 0 auto;
+  }
+  h2{
+    margin-top: 20px;
+  }
+}
